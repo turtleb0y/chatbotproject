@@ -1,11 +1,13 @@
-function myFunction() {
-  document.getElementById("chat-area").textContent = document.getElementById("talkInput").value;
-}
-
-//var planetLife = {
-//  "mars" : "no",
-//  "earth" : "yes",
-//  "mercury" : "no",
+//function myFunction() {
+  //document.getElementById("chat-area").textContent = document.getElementById("talkInput").value;
 //}
-//var life = planetLife["earth"],
-//var userInput = "hello",
+
+var speakConversation = {
+  "Hello" : "Hi there!",
+  "hello" : "Hi there!"
+  "HeLlo" : "Hello fellow human."
+  "How are you?" : "yes",
+  "mercury" : "no",
+}
+var life = planetLife["earth"],
+var userInput = "hello",
