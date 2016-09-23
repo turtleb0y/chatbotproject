@@ -1,5 +1,5 @@
 function myFunction() {
-  document.getElementById("chat-area").textContent = document.getElementById("question-area").value;
+  document.getElementById("chat-area").textContent = document.getElementById("talkInput").value;
 }
 
 //var planetLife = {

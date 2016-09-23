@@ -68,6 +68,7 @@ h4 {
     -webkit-border-radius: 5;
     -moz-border-radius: 5;
     border-radius: 5px;
+    overflow: hidden;
     height: 50px;
     padding: 2px;
     margin: 0px;
@@ -75,7 +76,7 @@ h4 {
     width: 100%;
 }
 
-#input {
+#talkInput {
   background-color: #fff;
   border: 0px solid #C0C2C5;
   font-family: sans-serif;
