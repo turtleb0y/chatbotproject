@@ -4,10 +4,6 @@
 
 var speakConversation = {
   "Hello" : "Hi there!",
-  "hello" : "Hi there!"
-  "HeLlo" : "Hello fellow human."
-  "How are you?" : "yes",
-  "mercury" : "no",
+  "How are you?" : "I am great.",
 }
-var life = planetLife["earth"],
 var userInput = "hello",
