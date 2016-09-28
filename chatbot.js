@@ -1,9 +1,15 @@
-//function myFunction() {
-  //document.getElementById("chat-area").textContent = document.getElementById("talkInput").value;
-//}
+var speak
 
-var speakConversation = {
-  "Hello" : "Hi there!",
-  "How are you?" : "I am great.",
+var chatBot = {
+    "Hello" : "Hi there!",
+    "How are you?" : "I am great.",
+    "How's your day?" : "I don't know, I'm just sitting here all day."
 }
-var userInput = "hello",
+
+function myFunction() {
+speak = document.getElementById("talkInput").value
+
+if (chatBot) {
+
+}
+}
